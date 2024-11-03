@@ -11,7 +11,7 @@ Analytical Prowess: Proficient in Statistical Concepts
 # Connect with Me
 I am eager to apply my analytical skills and data science expertise to solve real-world problems. Let's connect and explore the endless possibilities where mathematics meets the world of data science.
 
-# LinkedIn: Pritha Choudhury
-# Email: prithachoudhury123@gmail.com
+* LinkedIn: Pritha Choudhury
+* Email: prithachoudhury123@gmail.com
 
-# Thank you for visiting my GitHub profile. I look forward to the opportunity to collaborate and achieve great things together!
+**Thank you for visiting my GitHub profile. I look forward to the opportunity to collaborate and achieve great things together!**
